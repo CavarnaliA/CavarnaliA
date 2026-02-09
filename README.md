@@ -1,6 +1,5 @@
 # Hello!
-Cavarnali Anastasia
-
+Каварналы Анастасия
 
 ![Avatar](images/avatar.jpg)
 
@@ -27,7 +26,6 @@ Cavarnali Anastasia
 - React
 
 ## Как со мной связаться
-- Номер телефона:+37379633561
 - Email: nastea_kavarnali@mail.ru
 - Telegram: @anastcav
 - Instagram: _nnn.aste.aaa_
