@@ -27,5 +27,5 @@
 
 ## Как со мной связаться
 - Email: nastea_kavarnali@mail.ru
-- Telegram: @anastcav
-- Instagram: _nnn.aste.aaa_
+- Telegram: " @anastcav "
+- Instagram: "_nnn.aste.aaa_"
